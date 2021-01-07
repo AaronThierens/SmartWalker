@@ -1,5 +1,5 @@
 /* with this code you can make a walker smart: which means the walker can see obstacles and give feedback to the 'driver'. This concept is developed in cooperation with a deafblind man and howest university of applied sciences.
- *  The students who worked on this projects are : Maes Bernd and Thierens Aaron
+ *  The students who worked on this projects are : Dubois Simon, Maes Bernd and Thierens Aaron
  */
 
 #include <Wire.h>
